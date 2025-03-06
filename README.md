@@ -1,6 +1,7 @@
 Make sure you have Node.js installed
 
-```node -v
+```
+node -v
 npm -v
 ```
 
