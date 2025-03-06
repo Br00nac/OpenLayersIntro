@@ -1,7 +1,7 @@
 Make sure you have Node.js installed
 
-`node -v
-npm -v`
+`node -v`
+`npm -v`
 
 
 To run the program:
